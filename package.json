@@ -1,0 +1,16 @@
+{
+  "name": "nuxt4test",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/ui": "^2.18.4",
+    "nuxt": "^4.0.0-rc.6"
+  }
+}
