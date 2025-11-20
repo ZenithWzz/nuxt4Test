@@ -1,0 +1,4 @@
+<template>
+  <HeaderHero />
+  <FeatureGrid />
+</template>
